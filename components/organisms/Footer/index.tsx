@@ -5,8 +5,8 @@ import NavBrand from 'components/atoms/NavBrand'
 import NavLink from 'components/atoms/NavLink'
 import Text from 'components/atoms/Text'
 import IconList from '../../molecules/IconList';
-import { SiFacebook, SiWhatsapp, SiLinkedin, SiInstagram, SiGmail,SiYoutube} from 'react-icons/Si'
-import {BiSolidPhoneCall} from 'react-icons/Bi'
+import { SiFacebook, SiWhatsapp, SiLinkedin, SiInstagram, SiGmail, SiYoutube} from 'react-icons/si'
+import {BiSolidPhoneCall} from 'react-icons/bi'
 import IconListItem from 'components/molecules/IconListItem'
 
 
