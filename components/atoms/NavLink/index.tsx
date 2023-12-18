@@ -9,7 +9,7 @@ interface Props {
   href: string
   value: string
   canActive?: boolean
-  target?: string // Add the 'target' prop
+  target?: string 
 }
 
 const NavLink = ({ href, value, canActive = false, target }: Props) => {
